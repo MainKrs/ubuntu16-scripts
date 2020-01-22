@@ -14,3 +14,5 @@ Those can be used on normal machine as well, just remember to ```sudo su``` firs
  * [Redis Installation](aws/redis.sh)
 
  * [Full MEAN stack](aws/mean_stack.sh)
+
+#Opened
